@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/ai-for-event-space/static/css/main.31d6cfe0.css",
+    "main.js": "/ai-for-event-space/static/js/main.97cd2a79.js",
+    "index.html": "/ai-for-event-space/index.html",
+    "main.97cd2a79.js.map": "/ai-for-event-space/static/js/main.97cd2a79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.97cd2a79.js"
+  ]
+}
